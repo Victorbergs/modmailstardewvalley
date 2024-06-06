@@ -1,12 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1"/>
-   <!--<PackageReference Include="StardewModdingAPI.dll"/>
-    <PackageReference Include="StardewValley"/>-->
+    <Reference Include="StardewModdingAPI">
+      <HintPath>$(GamePath)/StardewModdingAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="StardewValley">
+      <HintPath>$(GamePath)/StardewValley.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
+
+
+<!-- dotnet workload update -->
