@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\bin\Debug\net6.0\Firstmod.deps.json
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\bin\Debug\net6.0\Firstmod.dll
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.sourcelink.json
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net6.0\Firstmod.dll

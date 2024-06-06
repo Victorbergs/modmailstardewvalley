@@ -3,6 +3,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Enablegamedebugging>true</Enablegamedebugging>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1"/>
@@ -10,10 +11,12 @@
       <HintPath>$(GamePath)/StardewModdingAPI.dll</HintPath>
     </Reference>
     <Reference Include="StardewValley">
-      <HintPath>$(GamePath)/StardewValley.dll</HintPath>
+      <HintPath>$(GamePath)/Stardew Valley.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <PropertyGroup>
+    <GamePath>D:/SteamLibrary/steamapps/common/Stardew Valley</GamePath> <!-- Replace with your actual game path -->
+  </PropertyGroup>
 </Project>
-
 
 <!-- dotnet workload update -->

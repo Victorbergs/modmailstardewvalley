@@ -6,3 +6,12 @@ C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Projects.csproj.CoreCompileInpu
 C:\Users\victo\Desktop\Projects\bin\Debug\net8.0\Projects.deps.json
 C:\Users\victo\Desktop\Projects\bin\Debug\net8.0\Projects.dll
 C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Projects.dll
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\bin\Debug\net8.0\Projects.deps.json
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\bin\Debug\net8.0\Projects.dll
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.sourcelink.json
+C:\Users\victo\Desktop\Projects\modmailstardewvalley\obj\Debug\net8.0\Projects.dll
