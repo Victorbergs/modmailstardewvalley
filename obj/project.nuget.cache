@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeRF1L21ND4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Desktop\\Projects\\Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+    "Name": "Firstmod",
+    "Author": "vito",
+    "Version": "1.0.0",
+    "Description": "bla bla",
+    "UniqueID": "vito.01",
+    "EntryDll": "Firstmod.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+  }

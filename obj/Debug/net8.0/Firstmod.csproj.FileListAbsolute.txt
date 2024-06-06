@@ -1,0 +1,8 @@
+C:\Users\victo\Desktop\Projects\bin\Debug\net8.0\Firstmod.deps.json
+C:\Users\victo\Desktop\Projects\bin\Debug\net8.0\Firstmod.dll
+C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Firstmod.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Firstmod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Firstmod.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Firstmod.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Firstmod.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projects\obj\Debug\net8.0\Firstmod.dll
